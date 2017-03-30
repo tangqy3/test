@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="DMS"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/tangqiaoyan/test/C++/DMS/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tangqiaoyan/test/C++/DMS/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tangqiaoyan/test/C++/DMS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tangqiaoyan/test/C++/DMS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tangqiaoyan/test/C++/DMS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/tangqiaoyan/test/C++/DMS/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tangqiaoyan/test/C++/DMS/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tangqiaoyan/test/C++/DMS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tangqiaoyan/test/C++/DMS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tangqiaoyan/test/C++/DMS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/tangqiaoyan/test/C++/DMS/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tangqiaoyan/test/C++/DMS/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tangqiaoyan/test/C++/DMS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tangqiaoyan/test/C++/DMS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tangqiaoyan/test/C++/DMS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DMS">
+				<Option output="/Users/tangqiaoyan/test/C++/DMS/cmake-build-debug/DMS" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tangqiaoyan/test/C++/DMS/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tangqiaoyan/test/C++/DMS/cmake-build-debug/Makefile&quot;  VERBOSE=1 DMS"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tangqiaoyan/test/C++/DMS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tangqiaoyan/test/C++/DMS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tangqiaoyan/test/C++/DMS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DMS/fast">
+				<Option output="/Users/tangqiaoyan/test/C++/DMS/cmake-build-debug/DMS" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tangqiaoyan/test/C++/DMS/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tangqiaoyan/test/C++/DMS/cmake-build-debug/Makefile&quot;  VERBOSE=1 DMS/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tangqiaoyan/test/C++/DMS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tangqiaoyan/test/C++/DMS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tangqiaoyan/test/C++/DMS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/client/Makefile">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/client/backup.sh">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/client/client.cpp">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/client/client.h">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/client/client.pro">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/client/client.sh">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/client/clientdlg.cpp">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/client/clientdlg.h">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/client/consolesender.cpp">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/client/consolesender.h">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/client/data.h">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/client/except.h">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/client/logins.dat">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/client/logreader.cpp">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/client/logreader.h">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/client/logsender.h">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/client/main.cpp">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/client/makefile.bak">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/client/moc_clientdlg.cpp">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/client/moc_workthread.cpp">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/client/reset.sh">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/client/socketsender.cpp">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/client/socketsender.h">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/client/workthread.cpp">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/client/workthread.h">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/client/wtmpx">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/client/wtmpx.20150511094506">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/client/wtmpx.bak">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/server/clientthread.cpp">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/server/clientthread.h">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/server/data.h">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/server/dms.db">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/server/except.h">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/server/filedao.cpp">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/server/filedao.h">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/server/logdao.h">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/server/logqueue.cpp">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/server/logqueue.h">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/server/logthread.cpp">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/server/logthread.h">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/server/main.cpp">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/server/makefile">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/server/oracledao.h">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/server/oracledao.pc">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/server/server.cpp">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/server/server.h">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/server/serversocket.cpp">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/server/serversocket.h">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/server/storethread.cpp">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/server/storethread.h">
+			<Option target="DMS"/>
+		</Unit>
+		<Unit filename="/Users/tangqiaoyan/test/C++/DMS/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

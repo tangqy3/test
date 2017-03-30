@@ -1,0 +1,3 @@
+/Users/tangqiaoyan/test/C++/DMS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tangqiaoyan/test/C++/DMS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/tangqiaoyan/test/C++/DMS/cmake-build-debug/CMakeFiles/DMS.dir
